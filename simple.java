@@ -4,5 +4,6 @@ public class simple
 	{
 		system.out.println("welcome");
 		system.out.println("to tumkuru");
+		system.out.println("mysore");
 	}
 }
